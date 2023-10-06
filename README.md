@@ -2,7 +2,7 @@
 - 👀 I’m interested in some Computer Vision tasks such as Object detection, Pose estimation, Skeleton based action recognition, ...
 - 💞️ I'm familiar with some DL frameworks: Pytorch, TensorFlow, TensorRT, Openvino, ...
 - 💞️ I’m working as AI Engineer at Asilla Vietnam
-- 📫 How to reach me: feel free to contact me via cuong@asilla.net
+- 📫 How to reach me: feel free to contact me via cuongthancao@gmail.com
 
 <!---
 thancaocuong/thancaocuong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
